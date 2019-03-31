@@ -1,5 +1,6 @@
 # MultiLoader
-- Henry Oliver
+#### A Multithreaded file loader
+##### Henry Oliver
 
 Features:
 
